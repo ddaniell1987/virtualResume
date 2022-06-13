@@ -1,0 +1,63 @@
+
+.eleven__logo{
+    position: absolute;
+    height: 15%;
+    border-radius: 30%;
+    margin-top: 0px;
+}
+.home__logo{
+    position: absolute;
+    margin-top: 0px;
+    height: 15%;
+    border-radius: 30%;
+}
+.website{
+    position: absolute;
+    border-radius: 30%;
+    height: 15%;
+    width: 7%;
+}
+
+.website__link{
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 115px;
+}
+.title{
+    margin: 40px 90px;
+    font-size: 15px;
+    padding: 25px;
+}
+
+.company{
+    font-size: 15px;
+    position: relative;
+    margin-top: -120px;
+    margin-left: 110px;   
+}
+
+.date{
+    float: right;
+    margin-top: -60px;
+}
+.portfolio__date{
+    float: right;
+    margin-top: -90px;
+}
+.experience__title{
+    text-align: center;
+    font-size: 30;
+    padding: 50px;
+}
+.portfolio__title{
+    margin: 35px 85px;
+    font-size: 15px;
+    padding: 30px;
+}
+.job__description{
+    
+    margin-top: 40px;
+    font-size: 15px;
+    padding-left: 50px;
+    padding-top: 10px;
+}
